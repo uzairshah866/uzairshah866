@@ -11,9 +11,11 @@
 
 - 🌱 I’m currently learning **Python/DRF**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, UI Libraries**
 
 - 📫 How to reach me **uzairshahh121@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dkA9QK6c3ekc3xCtoOQsOWaFV48yCiCq/view?usp=sharing](https://drive.google.com/file/d/1dkA9QK6c3ekc3xCtoOQsOWaFV48yCiCq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
