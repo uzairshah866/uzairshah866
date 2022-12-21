@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/uzairshahh" target="blank"><img src="https://img.shields.io/twitter/follow/uzairshahh?logo=twitter&style=for-the-badge" alt="uzairshahh" /></a> </p>
 
-- 🔭 I’m currently working on [Zeerac](https://dev.zeerac.com/)
+- 🔭 Currently working on [Zeerac](https://dev.zeerac.com/)
 
-- 🌱 I’m currently learning **Python/DRF**
+- 🌱 Currently learning **Python/DRF**
 
 - 💬 Ask me about **React, UI Libraries**
 
