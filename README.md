@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Python/DRF**
 
-- 💬 Ask me about **React, UI Libraries**
-
 - 📫 How to reach me **uzairshahh121@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10jrRIyIdYFbI83jxjg0PKp9qKNxncO3i/view?usp=sharing](https://drive.google.com/file/d/10jrRIyIdYFbI83jxjg0PKp9qKNxncO3i/view?usp=sharing)
