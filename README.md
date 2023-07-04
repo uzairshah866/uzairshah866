@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Zeerac](https://zeerac.com/)
 
-- 🌱 I’m currently learning **Python/DRF**
-
 - 📫 How to reach me **uzairshahh121@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10jrRIyIdYFbI83jxjg0PKp9qKNxncO3i/view?usp=sharing](https://drive.google.com/file/d/10jrRIyIdYFbI83jxjg0PKp9qKNxncO3i/view?usp=sharing)
