@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/uzairshahh121" target="blank"><img src="https://img.shields.io/twitter/follow/uzairshahh121?logo=twitter&style=for-the-badge" alt="uzairshahh121" /></a> </p>
 
-- 🔭 I’m currently working on [Zeerac](https://zeerac.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uzairshahh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzairshahh121" height="30" width="40" /></a>
