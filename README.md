@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Uzair Shah</h1>
-<h3 align="center">A Fullstack Developer from Pakistan</h3>
+<h3 align="center">Fullstack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairshah866&label=Profile%20views&color=0e75b6&style=flat" alt="uzairshah866" /> </p>
 
