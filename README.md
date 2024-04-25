@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uzairshahh121" target="blank"><img src="https://img.shields.io/twitter/follow/uzairshahh121?logo=twitter&style=for-the-badge" alt="uzairshahh121" /></a> </p>
 
-- 🌱 I’m currently learning **VUE / Next / AWS**
+- 🌱 I’m currently learning **BlockChain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
