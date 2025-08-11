@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Uzair Shah</h1>
-<h3 align="center">💻 Senior Software Engineer | Lead Frontend Developer | AI-Powered Solutions 🚀</h3>
+<h3 align="center">💻 Senior Software Engineer | Frontend Expert | AI-Powered Solutions 🚀</h3>
 
 ---
 
 ### 🌟 About Me
-I am a **Senior Software Engineer** with **6+ years of experience** in building high-performance web and mobile applications, specializing in **AI-powered solutions**.  
-Currently **Lead Frontend Developer at Zaltech AI**, I work on **custom GPT-based assistants**, scalable frontend architectures, and seamless AI integrations.  
+I’m a **Senior Software Engineer & Fullstack Developer** with **6+ years of experience** crafting scalable web and mobile applications.  
+I specialize in **AI-powered solutions, modern frontend development, and seamless user experiences**.  
 
-I’m passionate about:
-- 🚀 **Frontend Development** with React.js, Next.js, Vue.js, and React Native  
-- 🤖 **AI Integrations** including custom chatbots, GPT models, and real-time assistants  
-- 🛠 **Fullstack Solutions** with Node.js, Python/Django, and modern databases  
-- 👨‍🏫 Mentoring developers and leading high-performing teams  
-- 🌍 Collaborating with global clients to deliver impactful solutions  
+Currently working as a **Freelance Developer**, collaborating with clients globally to deliver **custom GPT-based assistants**, **AI-integrated platforms**, and **cross-platform mobile apps**.
+
+💡 **What I Do:**
+- 🚀 Build modern, responsive **web applications** using React.js, Next.js, and Vue.js  
+- 📱 Develop cross-platform **mobile apps** with React Native  
+- 🤖 Integrate AI solutions (Custom GPTs, chatbots, AI APIs)  
+- 🛠 Deliver **end-to-end fullstack solutions** using Node.js, Python/Django, and modern databases  
+- 👨‍🏫 Mentor junior developers and lead high-performing teams  
 
 ---
 
@@ -26,13 +28,46 @@ I’m passionate about:
 ---
 
 ## 💻 Tech Stack
-**Frontend:** React.js, Next.js, Vue.js, React Native, Redux Toolkit, Zustand, VueX, Context API, Tailwind CSS, Material UI, Ant Design, Styled Components  
-**Backend:** Node.js, Express.js, Python, Django  
-**Databases:** PostgreSQL, MongoDB, Firebase  
-**AI & Integrations:** OpenAI API, GPT-based assistants, Claude AI, Perplexity API, Soul Machine avatars, WebSockets  
-**Cloud & DevOps:** AWS, DigitalOcean, Vercel, Netlify, Hostinger, CI/CD Pipelines  
-**Tools & APIs:** Google Maps API, Google Places API, REST APIs, WebSockets  
-**Languages:** JavaScript, TypeScript, Python, HTML, CSS  
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=orange)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+**Backend**
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**AI & Integrations**
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Chatbot](https://img.shields.io/badge/Custom%20Chatbots-%23000000.svg?style=for-the-badge&logo=wechat&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
