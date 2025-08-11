@@ -21,7 +21,6 @@ Currently working as a **Freelance Developer**, collaborating with clients globa
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://uzair-shah.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairshahh121)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/uzairshah866)
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/uzairshahh121)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13767730/uzair-shah)
 
