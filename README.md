@@ -33,6 +33,7 @@ Currently working as a **Freelance Developer**, collaborating with clients globa
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=orange)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -78,7 +79,7 @@ Currently working as a **Freelance Developer**, collaborating with clients globa
 - **💬 Custom Chatbots Integration** – Embedded chatbots for WordPress, PHP, and business-specific platforms  
 - **🦷 DNH Dental Platform** – Multi-role dental care planning system with real-time graphs and optimized workflows  
 - **🔐 SecureGPT** – Enterprise-grade ChatGPT interface with company-specific configurations and secure searches  
-- **🌍 ZEERAC** – Fullstack property platform with Google Maps integration and real-time search  
+- **🌍 ZEERAC** – Full-stack real estate platform with Google Maps integration and real-time search  
 
 ---
 
