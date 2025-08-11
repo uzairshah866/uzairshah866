@@ -1,56 +1,49 @@
 <h1 align="center">Hi 👋, I'm Uzair Shah</h1>
-<h3 align="center">💻 Senior Fullstack Developer | AI, Web & Mobile Solutions 🚀</h3>
+<h3 align="center">💻 Senior Software Engineer | Lead Frontend Developer | AI-Powered Solutions 🚀</h3>
 
 ---
 
 ### 🌟 About Me
-- 🔹 6+ years of experience in **Fullstack Development** (Web & Mobile)  
-- 🔹 Specializing in **React, React Native, Next.js, Node.js, Python, and AI Integrations**  
-- 🔹 Currently **Lead Frontend Developer** at Zaltech AI, building scalable and high-performance solutions  
-- 🔹 Founder of **Optimus Coder** – delivering AI-powered, web, mobile, and blockchain solutions  
-- 🔹 Passionate about building **custom chatbots, AI assistants, and next-gen applications**  
-- 🔹 Open for **freelance, consultancy, and collaboration opportunities** worldwide  
+I am a **Senior Software Engineer** with **6+ years of experience** in building high-performance web and mobile applications, specializing in **AI-powered solutions**.  
+Currently **Lead Frontend Developer at Zaltech AI**, I work on **custom GPT-based assistants**, scalable frontend architectures, and seamless AI integrations.  
+
+I’m passionate about:
+- 🚀 **Frontend Development** with React.js, Next.js, Vue.js, and React Native  
+- 🤖 **AI Integrations** including custom chatbots, GPT models, and real-time assistants  
+- 🛠 **Fullstack Solutions** with Node.js, Python/Django, and modern databases  
+- 👨‍🏫 Mentoring developers and leading high-performing teams  
+- 🌍 Collaborating with global clients to deliver impactful solutions  
 
 ---
 
 ## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/uzair.shah.56808)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzairshahh121)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairshahh121)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13767730/uzair-shah)  
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/uzairshahh121)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://uzair-shah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairshahh121)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/uzairshah866)
+[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/uzairshahh121)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13767730/uzair-shah)
 
 ---
 
 ## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
+**Frontend:** React.js, Next.js, Vue.js, React Native, Redux Toolkit, Zustand, VueX, Context API, Tailwind CSS, Material UI, Ant Design, Styled Components  
+**Backend:** Node.js, Express.js, Python, Django  
+**Databases:** PostgreSQL, MongoDB, Firebase  
+**AI & Integrations:** OpenAI API, GPT-based assistants, Claude AI, Perplexity API, Soul Machine avatars, WebSockets  
+**Cloud & DevOps:** AWS, DigitalOcean, Vercel, Netlify, Hostinger, CI/CD Pipelines  
+**Tools & APIs:** Google Maps API, Google Places API, REST APIs, WebSockets  
+**Languages:** JavaScript, TypeScript, Python, HTML, CSS  
 
 ---
 
 ## 🚀 Featured Projects
-- **🤖 AI Voice Sales Assistant** – Real-time AI chatbot with predefined sales responses  
-- **📊 Zaltech Studio** – Custom bot creation platform with AI training & deployment  
-- **📱 ZINGGO App** – Cross-platform social app with React Native  
-- **🌐 Optimus Coder Website** – Company site for AI, Web & Mobile solutions  
+- **🤖 AI-Powered Proposal Generator** – Next.js platform with real-time collaboration & AI-assisted text generation (English & Arabic)  
+- **⚖ Justiciano Legal GPT** – Custom AI assistant for legal professionals with role-based access and precise legal query responses  
+- **🧠 AI-Powered Therapy App** – Cross-platform emotional support app with AI-driven therapy and real-time avatar interactions  
+- **💬 Custom Chatbots Integration** – Embedded chatbots for WordPress, PHP, and business-specific platforms  
+- **🦷 DNH Dental Platform** – Multi-role dental care planning system with real-time graphs and optimized workflows  
+- **🔐 SecureGPT** – Enterprise-grade ChatGPT interface with company-specific configurations and secure searches  
+- **🌍 ZEERAC** – Fullstack property platform with Google Maps integration and real-time search  
 
 ---
 
