@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uzair Shah</h1>
+<h1 align="center">Hi, I'm Uzair Shah</h1>
 <h3 align="center">💻 Senior Software Engineer | Frontend Expert | AI-Powered Solutions 🚀</h3>
 
 ---
