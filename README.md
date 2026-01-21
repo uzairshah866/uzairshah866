@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-I’m a **Senior Software Engineer & Fullstack [frontend-heavy] Developer** with **6+ years of experience** crafting scalable web and mobile applications.  
+I’m a **Senior Software Engineer & Fullstack (frontend-heavy) Developer** with **6+ years of experience** crafting scalable web and mobile applications.  
 I specialize in **AI-powered solutions, modern frontend development, and seamless user experiences**.  
 
 Currently working as a **Freelance Developer**, collaborating with clients globally to deliver **custom GPT-based assistants**, **AI-integrated platforms**, and **cross-platform mobile apps**.
