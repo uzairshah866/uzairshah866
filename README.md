@@ -91,9 +91,7 @@ Currently working as a **Freelance Developer**, collaborating with clients globa
 
 [![](https://visitcount.itsvg.in/api?id=uzairshah866&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-
-
-# 👋 Uzair Shah
+# Uzair Shah
 
 **Senior Software Engineer | Fullstack Developer (Frontend-Heavy) | AI Solutions Architect**
 
@@ -198,19 +196,21 @@ Full-stack real estate solution with Google Maps integration, advanced search al
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzairshah866&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzairshah866&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/uzairshah866)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzairshah866&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzairshah866&theme=dark&hide_border=false)](https://github.com/uzairshah866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairshah866&theme=dark&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairshah866&theme=dark&hide_border=false&layout=compact)](https://github.com/uzairshah866)
 
 </div>
 
 ---
 
-## 🎓 Philosophy
+## 🎯 My Philosophy
 
-I believe in writing clean, maintainable code, fostering collaborative team environments, and continuously learning emerging technologies. Every project is an opportunity to create lasting impact through thoughtful design and robust engineering.
+I believe in writing **clean, maintainable code** and fostering **collaborative team environments** where developers grow and innovate together. I'm committed to continuously learning emerging technologies and delivering solutions that create lasting impact through thoughtful design and robust engineering.
+
+Every challenge is an opportunity to build something that matters.
 
 ---
 
