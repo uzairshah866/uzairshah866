@@ -93,7 +93,7 @@ Currently working as a **Freelance Developer**, collaborating with clients globa
 
 # Uzair Shah
 
-**Senior Software Engineer | Fullstack Developer (Frontend-Heavy) | AI Solutions Architect**
+**Senior Software Engineer | Fullstack Developer (Frontend-Heavy) | AI Solutions**
 
 Building scalable, user-centric applications with cutting-edge technologies. Passionate about crafting seamless digital experiences and delivering AI-powered solutions that solve real-world problems.
 
